@@ -1,2 +1,2 @@
 # EngQuant
-My blog http://www.engquant.science/
+My blog https://vivekpa.github.io/EngQuant/
